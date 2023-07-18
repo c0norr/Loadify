@@ -1,2 +1,2 @@
 # Loadify
-📺  A simple limit free YouTube downloader Siri shortcut.
+A simple limit free YouTube downloader Siri shortcut.
