@@ -1,11 +1,11 @@
-# Loadify
+# 📺 Loadify
 A simple limit free Social Video downloader Siri Shortcut.
 
 
 
 ## What can Loadify do?
 Loadify Can:
-- Download Youtube vidoes and shorts
+- Download Youtube vidoes and shorts 
 - Download Instagram Reels
 - Download TikTok videos
 
