@@ -2,8 +2,6 @@
 A simple **limit free** Social Video downloader Siri Shortcut.
 
 
-
-
 ## What can Loadify do?
 Loadify Can:
 - Download YouTube videos and shorts 
