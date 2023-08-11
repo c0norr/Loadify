@@ -1,7 +1,6 @@
 # 📺 &nbsp;Loadify
 A simple **limit free** Social Video downloader Siri Shortcut.
 
-*Expected 24th of July.*
 
 
 
